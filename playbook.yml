@@ -1,3 +1,5 @@
+# Código que chama as tarefas de instalação
+# e configuração do wordpress localizados em roles
 ---
 - hosts: desk
   remote_user: aluno
